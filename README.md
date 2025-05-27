@@ -188,6 +188,5 @@ Pozisyon bazlı filtreleme
 Otomatik değerlendirme raporu
 
 
-https://github.com/SalihPOYRAZ/-nsan-Bilgisayar-Etkile-im-Ders
 
 

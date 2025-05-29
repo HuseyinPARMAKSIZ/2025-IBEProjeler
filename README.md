@@ -187,6 +187,22 @@ Pozisyon bazlı filtreleme
 
 Otomatik değerlendirme raporu
 
+Akıllı Ev:
+https://github.com/BeyzaTermisin/HISMOD-AKILLI-EV-SISTEMLERI/tree/main
+
+RFid-Google Sheets ve Streamlit Uygulaması:
+https://github.com/BatuhanToruk/ESP32-ile-Rfid-kart-okuyucu
+
+Raspberry Pi Pico W ile RFID Tabanlı Devamsızlık Takip Sistemi (Firebase):
+https://github.com/omerbilgili54/raspberry-pi-pico-rfid-attendance
+
+IoT Tabanlı Sensör Verisi Toplama ve AWS MQTT ile Buluta Aktarma:
+https://github.com/EnurCali10/iot-sensor-cloud-project
+
+
+
+
+
 
 
 
